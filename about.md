@@ -13,7 +13,7 @@ In 2010, I co-founded **Aisle50**, a web-based subscription service for products
 **My second, most recent book:** [*Automate This, How Algorithms Came to Rule Our World*](http://www.amazon.com/gp/product/1591844924/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bobmania-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1591844924) was published by Penguin/Portfolio in 2012.  It chronicles the march of automation from the very first hack of Wall Street to their current role as disruptors of the creative class in fields as varied as music, writing, law and medicine. I gave a TED talk relating to the book in 2012, which can be seen [here](https://www.youtube.com/watch?v=H_aLU-NOdHM). Stephen Colbert had me on his show to, as he put it, "explain what an algorithm is to these rubes in the audience." [The Colbert Report clip is here](http://www.colbertnation.com/the-colbert-report-videos/421266/november-14-2012/high-frequency-trading---christopher-steiner).
 
 <br>
-![Steiner-Colbert](https://s3-us-west-2.amazonaws.com/chrissteinerdotcom/images/colbert-steiner.png)
+![Steiner-Colbert](https://s3-us-west-2.amazonaws.com/chrissteinerdotcom/images/colbert-steiner.jpg)
 <br>
 <br>
 
