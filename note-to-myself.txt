@@ -1,0 +1,4 @@
+inserting html or css into the main files--index.html or about.md or speaking.md, doesn't work. that html and css (if inline) has to go into the "includes" files, like footer.html, highlights.html, etc... CSS can be inline in these file or in the css files, preferably _layout.scss.  could probably make a new css file for new styles and include it in the @import in the base.scss file.
+
+ACTUALLY: html looks to work, but it has to be styled inline
+

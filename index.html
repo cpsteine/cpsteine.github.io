@@ -1,0 +1,37 @@
+---
+layout: index-layout
+---
+
+
+<div class="top-section">
+{% include highlights.html %}
+</div>
+
+
+
+<!-- Steiner note: the below is commented out. to activate, just erase comment-outs and write a post; directions in the intitial post inside the _posts folder
+
+<div class="home">
+
+
+
+	
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
+
+-->
