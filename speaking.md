@@ -14,6 +14,9 @@ In addition to the events below, I have appeared on The Today Show, The Colbert 
 
 Some recent, and not-so-recent, engagements are listed below:
 
+[**Keynote: Annual Jackson Hole Airline Summit, August 26-27**](http://jacksonhole.com)<br>
+An exploration on how algorithms are affecting the travel industry, the world of airfares and destination resort travel. The algorithm has now ascended to become the ultimate arbiter of where people travel and how they get there.
+
 [**Book Signing, American Book Center - Amsterdam, Nov. 21, 2013**](http://www.abc.nl/frontpage/events/index.php?show=details&place=abc&event=1076)<br>
 Books were signed, bought, discussed. Beer was imbibed.
 
