@@ -2,3 +2,10 @@ inserting html or css into the main files--index.html or about.md or speaking.md
 
 ACTUALLY: html looks to work, but it has to be styled inline
 
+how to edit, deploy:
+
+edit in textmate;
+build with jekyll build
+push with git push
+
+
