@@ -6,13 +6,17 @@ permalink: /speaking/
 
 {% include speakingvideo.html %}
 
-I often speak on technology, algorithms and big data -- and how these latter two forces have come to shape, change and rule our lives. Speaking on topics for which I have passion is something I greatly enjoy.
+I often speak on technology, algorithms and big data -- and how these latter two forces have come to shape, change and rule our lives. 
 
 ​Please email me at chris AT chrissteiner DOT com if you're interested in having me speak at your event. 
 
 In addition to the events below, I have appeared on The Today Show, The Colbert Report, ABC, CNN, Fox News (always the most fun, love the yelling), CNBC, NPR's Morning Edition, Marketplace and Talk of the Nation, among others.
 
 Some recent, and not-so-recent, engagements are listed below:
+
+[**Keynote: The Automated World: Toward Human+Machine Symbiosis - Palo Alto, CA, June 16-17, 2015**](http://www.iftf.org/future-now/article-detail/explore-the-automated-world-human-machine-symbiosis-on-june-16-17/)<br>
+Software and Algorithms have infiltrated the most unlikely places, from medicine to cars to music and movies. A discussion on the future of AI and how these machines we've created—our machines, not *the machine*—will affect the future of work, employment, and creativity.
+
 
 [**Keynote: Annual Jackson Hole Airline Summit - Jackson Hole, WY, August 26-27, 2014**](http://jacksonhole.com)<br>
 An exploration on how algorithms are affecting the travel industry, the world of airfares and destination resort travel. The algorithm has now ascended to become the ultimate arbiter of where people travel and how they get there.

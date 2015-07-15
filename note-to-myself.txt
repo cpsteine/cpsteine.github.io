@@ -5,7 +5,9 @@ ACTUALLY: html looks to work, but it has to be styled inline
 how to edit, deploy:
 
 edit in textmate;
-build with jekyll build
-push with git push
-
+build with 'jekyll build'
+add files to be committed with git add
+git commit -m "blah blah blah"
+git push
+YOU'RE LIVE
 

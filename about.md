@@ -6,7 +6,9 @@ permalink: /about/
 
  
  
-I am a tech founder, an engineer and an author. I like to ski.
+I am a tech founder, an engineer and an author. I like to ski. 
+
+Day-to-day: When I am not consulting with clients, writing or speaking, I am working on my own project: writing code and words, along with several other people, for [ZRankings](https://zrankings.com), website that ranks the best ski resorts in North America— 200-plus of them—based on a bevy of quantifiable factors.
 
 In 2010, I co-founded **Aisle50**, a web-based subscription service for products at brick and mortar stores.  Aisle50 was part of the summer 2011 class at [Y Combinator](http://ycombinator.com),  one of the more exciting places in the world where it doesn't snow. In addition to Y Combinator, we raised $6 million from August Capital and Origin Ventures—both of them great groups of people—among others. Aisle50 was acquired by Groupon in February 2015.
 
@@ -27,7 +29,7 @@ In writing that book, I was wrong about several things. Some of the assumptions 
 
 <b>Other stuff:</b> Before writing Automate This and starting Aisle50, I was a senior staff writer covering technology at Forbes magazine for seven years. I still write a blog at Forbes.com and contribute to the magazine. Before Forbes, I was a staff reporter at the Chicago Tribune. 
 
-Prior to journalism, I was a design engineer for structures at [The Presidio Trust of San Francisco](http://www.presidio.gov/Pages/default.aspx) and [The Jack Johnson Company](http://jackjohnson.com), an engineering-design firm in Park City, Utah. I have a BS in Civil Engineering from the [University of Illinois at Urbana-Champaign](http://uiuc.edu) and a MS in Journalism from [Northwestern University](http://www.northwestern.edu/). I live in Evanston, IL, write and code in the early morning, shovel snow, change diapers and drink lots of [coffee](https://www.metropoliscoffee.com/). 
+Prior to journalism, I was a design engineer for structures at [The Presidio Trust of San Francisco](http://www.presidio.gov/Pages/default.aspx) and [The Jack Johnson Company](http://jackjohnson.com), an engineering-design firm in Park City, Utah. I have a BS in Civil Engineering from the [University of Illinois at Urbana-Champaign](http://uiuc.edu) and a MS in Journalism from [Northwestern University](http://www.northwestern.edu/). I live in Evanston, IL, write and code in the early morning, shovel snow, change diapers and drink lots of [coffee](https://www.metropoliscoffee.com/). *Coffee Note: I've taken to roasting the stuff at home now, in a homemade contraption. I can roast a pound beautifully in 12-15 minutes. Everybody should do this.* 
 
 <b>This site:</b> I built this site from flat files run on Jekyll deployed on Github. I had run my site with Wordpress previously, but after years of getting hacked as random security flaws popped up within WP (because I didn't update the software often enough), and after seeing my traffic go to nearly 50% mobile, something my Wordpess template, even with style changes, didn't handle well, I brought my silly personal website in-house. There's not much to it, but that's the point.
 
