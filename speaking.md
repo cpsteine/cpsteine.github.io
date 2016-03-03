@@ -17,6 +17,9 @@ Some recent, and not-so-recent, engagements are listed below:
 [**Keynote: Algorithms are Taking Over Everything - Cain Watters and Associated Annual Meeting, Ritz Carlton Laguna Niguel, CA, Feb. 20, 2016**](http://www.cainwatters.com/event/cwa-annual-meeting-2/)<br>
 Our financial markets were co-opted more than a decade ago by algorithms. But now bots have moved on to the most unlikely pf places, from medicine to cars to music and movies. A discussion on the variety and scope of places and things that have already been invaded by algorithms—and those that will fall soon.
 
+[**Innovation Lecture, Deloitte Partner Event - Chicago, IL, July 20, 2015*](http://www2.deloitte.com/us/en.html)<br>
+As Algorithms have begun to take over jobs that, more and more often, were inhabited by humans with college degrees and learned domain knowledge, they have begun to threaten the kind of work done by major consultancies. A discussion of how algorithms and automation are beginning to play in the tax and advisory space, from custom solutions to standardized SAAS packages.
+
 [**Keynote: The Automated World: Toward Human+Machine Symbiosis - Palo Alto, CA, June 16-17, 2015**](http://www.iftf.org/future-now/article-detail/explore-the-automated-world-human-machine-symbiosis-on-june-16-17/)<br>
 Software and Algorithms have infiltrated the most unlikely places, from medicine to cars to music and movies. A discussion on the future of AI and how these machines we've created—our machines, not *the machine*—will affect the future of work, employment, and creativity.
 
