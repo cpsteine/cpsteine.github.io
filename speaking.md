@@ -14,6 +14,12 @@ In addition to the events below, I have appeared on The Today Show, The Colbert 
 
 Some recent, and not-so-recent, engagements are listed below:
 
+[**Moderator of Keynote Discussion: The Seduction of Automation, from the CIA to Social Media, and its Dangers - The Cortex, St. Louis, MO, Sept. 24, 2016**](http://murmurationfest.com/)<br>
+A one-on-one discussion with Neal Sample Senior Vice President & Chief Information Officer, Express Scripts. 
+
+[**Keynote: The Automated World - CareerBuilder Empower Conference, Sheraton Grand, Chicago, IL, Sept. 7, 2016**](https://hiring.careerbuilder.com/promotions/empower)<br>
+A presentation and discussion of how automation and software have revolutionized fields that may seem outside the normal boundaries of the digital world. It affects recruiting, engineering hires, everything. 
+
 [**Keynote: Algorithms are Taking Over Everything - Cain Watters and Associated Annual Meeting, Ritz Carlton Laguna Niguel, CA, Feb. 20, 2016**](http://www.cainwatters.com/event/cwa-annual-meeting-2/)<br>
 Our financial markets were co-opted more than a decade ago by algorithms. But now bots have moved on to the most unlikely pf places, from medicine to cars to music and movies. A discussion on the variety and scope of places and things that have already been invaded by algorithms—and those that will fall soon.
 
