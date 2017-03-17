@@ -45,7 +45,7 @@ Books were signed, bought, discussed. Beer was imbibed.
 [**Keynote: Emerce Performance - Amsterdam, Nov. 21, 2013**](http://www.emerce.nl/events/emerce-performance)<br>
 A morning focused on the intersection of algorithms and business that can lead to products that replace the need for human input in a coterie of tasks that, not long ago, were thought to be inately, uniquely, human. 
 
-**Artificial Intelligence Meets The Queen - London, UK, May 8, 2013**<br>
+[**Artificial Intelligence Meets The Queen - London, UK, May 8, 2013**](https://rocketfuel.com)<br>
 A presentation focusing on automation, software and algorithms in the advertising space, as well as psychology, travel and music.
 
 ​[**RAMP: Advanced Commerce & Mobile Retail Services Summit - Chicago - April 15-17, 2013**](http://www.retailramp.com/)<br> 
