@@ -14,6 +14,12 @@ In addition to the events below, I have appeared on The Today Show, The Colbert 
 
 Some recent, and not-so-recent, engagements are listed below:
 
+[**Keynote presentation, Liberty Advisors Quarterly Meeting, 1871 Chicago, March 16, 2017,**](http://www.libertyadvisorgroup.com)<br>
+Examination of how algorithms and the widespread use of AI is affecting how companies innovate. In this setting, who is most likely to innovate, and how must big companies alter their approach to ensure they can maximize their abilities leverage innovation. 
+
+[**Keynote, TDWI Austin - JW Marriott, Austin, TX, Dec. 7, 2016**](https://tdwi.org/Home.aspx)<br>
+A dive into how algorithms, combined with big data and AI techniques are changing labor, shaping media and defining a new economy across the world. 
+
 [**Moderator of Keynote Discussion: The Seduction of Automation, from the CIA to Social Media, and its Dangers - The Cortex, St. Louis, MO, Sept. 24, 2016**](http://murmurationfest.com/)<br>
 A one-on-one discussion with Neal Sample Senior Vice President & Chief Information Officer, Express Scripts. 
 
