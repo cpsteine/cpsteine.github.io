@@ -14,6 +14,9 @@ In addition to the events below, I have appeared on The Today Show, The Colbert 
 
 Some recent, and not-so-recent, engagements are listed below:
 
+[**Keynote presentation, IFA Berlin, Berlin, Germany, Sept. 9, 2019,**](https://b2b.ifa-berlin.com/en/IFA/IFANEXT/IFANEXTSpeakers/Event.jsp?eventDateId=584429&pageTitle=Short+Talk%3A+Nerds%2C+Poets+and+Rockstars%3A+Fading+Breeds+in+the+Quantification+of+Everything)<br>
+Nerds, Poets and Rockstars: Fading Breeds in the Quantification of Everything. 
+
 [**Keynote presentation, Liberty Advisors Quarterly Meeting, 1871 Chicago, March 16, 2017,**](http://www.libertyadvisorgroup.com)<br>
 Examination of how algorithms and the widespread use of AI is affecting how companies innovate. In this setting, who is most likely to innovate, and how must big companies alter their approach to ensure they can maximize their abilities to leverage innovation. 
 
