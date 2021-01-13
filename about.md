@@ -8,7 +8,9 @@ permalink: /about/
  
 I am a tech founder, an engineer and an author. I like to ski. 
 
-Day-to-day: When I am not consulting with clients, writing or speaking, I am working on my own project: writing code and words, along with several other people, for [ZRankings](https://zrankings.com), website that ranks the best ski resorts in North America— 200-plus of them—based on a bevy of quantifiable factors.
+Day-to-day: I work with 20 wonderful people at Cuesta Partners, where I head up the Venture Capital and Private Equity Practice. We advise investors around technology and how it can improve their portfolio investments. Also: I regularly write on technology and travel for a handful of outlets, including The New York Times, Forbes and Outside.
+
+When I am not consulting with clients, writing or speaking, I am working on my own project: writing code and words, along with several other people, for [ZRankings](https://zrankings.com), website that ranks the best ski resorts in North America— 200-plus of them—based on a bevy of quantifiable factors.
 
 In 2010, I co-founded **Aisle50**, a web-based subscription service for products at brick and mortar stores.  Aisle50 was part of the summer 2011 class at [Y Combinator](http://ycombinator.com),  one of the more exciting places in the world where it doesn't snow. In addition to Y Combinator, we raised $6 million from August Capital and Origin Ventures—both of them great groups of people—among others. Aisle50 was acquired by Groupon in February 2015.
 
